@@ -3,4 +3,4 @@ This is my first repository
 <br>
 <br>
 <hr>
-Author-Komma Rama(software developer)
+Author-Komma Rama
