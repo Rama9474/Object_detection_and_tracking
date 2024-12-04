@@ -11,9 +11,6 @@ This project demonstrates real-time object detection and tracking using a pre-tr
 <h2>Installation & Usage</h2>
 1. Ensure Python and OpenCV are installed.<br>
 2. Run the Python script:<br>
-   ```bash
-   python Object_detection_tracking.py
-   ```
 
 <br>
 <hr>
